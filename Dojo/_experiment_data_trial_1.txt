@@ -1,0 +1,14 @@
+Participant ID: 
+Last Name: 
+First Name: 
+
+basketball     views: 2     total time: 6.49     avg time: 3.24    
+soccerball     views: 1     total time: 1.53     avg time: 1.53    
+volleyball     views: 1     total time: 2.65     avg time: 2.65    
+
+Time line:
+
+basketball     11.79
+volleyball     17.36
+basketball     20.50
+soccerball     22.85
